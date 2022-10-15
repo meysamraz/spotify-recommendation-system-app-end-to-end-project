@@ -21,7 +21,7 @@ In this project, I am trying to create a **content base recommendation system** 
 
 ## 1 - Setup Spotify Api 
 - Open [spotify developers](https://developer.spotify.com/dashboard/login) go to ***dashboard*** - ***create app*** and get your ***client id*** and ***secret id***
-<img src = "img/guide.jpg"  width ="450"/>
+<img src = "img/guide.jpg"  width ="550"/>
 
 ## 2 - Collecting Data
 
@@ -108,7 +108,7 @@ I used [Heroku](https://www.heroku.com/) a cloud platform as a service which pro
 - [numpy](https://numpy.org/)
 - [plotly](https://plotly.com/)
 - [matplotlib](https://matplotlib.org/)
-- [seaborn]([https://pypi.org/project/psycopg2/](https://seaborn.pydata.org/))
+- [seaborn](https://seaborn.pydata.org/)
 - [termcolor](https://pypi.org/project/termcolor/)
 - [wordcloud](https://pypi.org/project/wordcloud/)
 - [yellowbrick](https://pypi.org/project/yellowbrick/)

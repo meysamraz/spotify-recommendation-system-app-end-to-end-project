@@ -15,12 +15,15 @@ In this project, I am trying to create a **content base recommendation system** 
 
 # Project Overview :
 
-## 1 - Setup Spotify Api 
-- Open [spotify developers](https://developer.spotify.com/dashboard/login) go to ***dashboard*** - create app and get your ***client id*** and ***secret id***
-<img src = "img/guide.jpg"  width ="450"/>
+<img src = "img/viz1.jpg"  width ="500"/>
 
+<img src = "img/viz2.jpg"  width ="500"/>
+
+## 1 - Setup Spotify Api 
+- Open [spotify developers](https://developer.spotify.com/dashboard/login) go to ***dashboard*** - ***create app*** and get your ***client id*** and ***secret id***
+<img src = "img/guide.jpg"  width ="450"/>
 ## 2 - Collecting Data
-- Collect songs between 2017 and 2022
+- Collect songs between 2017 and 2022 (1000 each year)
 - Collect songs that i liked
 - Collect audio features of collected songs 
 - Collect audio features of liked songs
@@ -43,3 +46,15 @@ In this project, I am trying to create a **content base recommendation system** 
 - Song popularity distribution and (min,avg,mode,max)
 - Artist genres wordcolud 
 - Analyzing audio features
+
+## 6 - Apply Dmensionality Reduction¶
+- Split audio features from data
+- Standard Scaling Audio Features
+- Apply PCA
+- Put PCA Output Into a Dataframe
+- Visualize reduced dimension Data
+
+## 7 - Apply Clustering¶
+Select the right value of k for clustring
+Fit reduced dimension data into Kmeans
+Visualize clusterd data (kemans output)

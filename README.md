@@ -25,7 +25,17 @@ In this project, I am trying to create a **content base recommendation system** 
 
 ## 2 - Collecting Data
 
-- ### Collect songs between 2017 and 2022 (1000 each year)
+- ### Collect songs between 2017 and 2022 (1000 per year)
+    -   id : song id  
+    -   song name : name of the songs   
+    -   artist name : name of artist who sing the song
+    -   artist genres : genres that artist sings
+    -   album genres : genres of songs album  
+    -   release_date : release date of song
+    -   song link : link of song on spotify
+    -   image : cover image of song  
+    -   song duration : song duration   
+    -   song popularity : song popularity on spotify
 
 - ### Collect songs that i liked
 

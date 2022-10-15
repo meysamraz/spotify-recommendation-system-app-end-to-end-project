@@ -23,8 +23,10 @@ In this project, I am trying to create a **content base recommendation system** 
 - Open [spotify developers](https://developer.spotify.com/dashboard/login) go to ***dashboard*** - ***create app*** and get your ***client id*** and ***secret id***
 <img src = "img/guide.jpg"  width ="450"/>
 ## 2 - Collecting Data
-- Collect songs between 2017 and 2022 (1000 each year)
-- Collect songs that i liked
+- ### Collect songs between 2017 and 2022 (1000 each year)
+
+- ### Collect songs that i liked
+
 - ### Collect audio features of collected songs 
     - ID: Customer's unique identifier
     - Year_Birth: Customer's birth year
@@ -35,38 +37,41 @@ In this project, I am trying to create a **content base recommendation system** 
     - Teenhome: Number of teenagers in customer's household
     - Dt_Customer: Date of customer's enrollment with the company
 
-- Collect audio features of liked songs
-- Merge songs and their audio features
-- Save data into a csv file
+- ### Collect audio features of liked songs
+
+
+- ### Merge songs and their audio features
+
+- ### Save data into a csv file
 
 ## 3 - Understand the data
-- Shape of the data
-- Check column dtypes
-- Check is there any null values
-- Check the correlation
+- ### Shape of the data
+- ### Check column dtypes
+- ### Check is there any null values
+- ### Check the correlation
 
 ## 4 - Cleaning the data 
-- Drop "album genres" column
-- Convert artist genres to str
+- ### Drop "album genres" column
+- ### Convert artist genres to str
 
 ## 5 - Analyzing Data
-- Number of songs per year
-- Songs duration distribution and (min,avg,max) 
-- Song popularity distribution and (min,avg,mode,max)
-- Artist genres wordcolud 
-- Analyzing audio features
+- ### Number of songs per year
+- ### Songs duration distribution and (min,avg,max) 
+- ### Song popularity distribution and (min,avg,mode,max)
+- ### Artist genres wordcolud 
+- ### Analyzing audio features
 
 ## 6 - Apply Dmensionality Reduction¶
-- Split audio features from data
-- Standard Scaling Audio Features
-- Apply PCA
-- Put PCA Output Into a Dataframe
-- Visualize reduced dimension Data
+- ### Split audio features from data
+- ### Standard Scaling Audio Features
+- ### Apply PCA
+- ### Put PCA Output Into a Dataframe
+- ### Visualize reduced dimension Data
 
 ## 7 - Apply Clustering¶
-- Select the right value of k for clustring
-- Fit reduced dimension data into Kmeans
-- Visualize clusterd data (kemans output)
+- ### Select the right value of k for clustring
+- ### Fit reduced dimension data into Kmeans
+- ### Visualize clusterd data (kemans output)
 
 ## 8 - Create Recommendation System
 

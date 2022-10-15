@@ -59,37 +59,37 @@ In this project, I am trying to create a **content base recommendation system** 
 
 ## 3 - Understand the data
 
-- ### Shape of the data
-- ### Check column dtypes
-- ### Check is there any null values
-- ### Check the correlation
+- #### Shape of the data
+- #### Check column dtypes
+- #### Check is there any null values
+- #### Check the correlation
 
 ## 4 - Cleaning the data 
 
-- ### Drop "album genres" column
-- ### Convert artist genres to str
+- #### Drop "album genres" column
+- #### Convert artist genres to str
 
 ## 5 - Analyzing Data
 
-- ### Number of songs per year
-- ### Songs duration distribution and (min,avg,max) 
-- ### Song popularity distribution and (min,avg,mode,max)
-- ### Artist genres wordcolud 
-- ### Analyzing audio features
+- #### Number of songs per year
+- #### Songs duration distribution and (min,avg,max) 
+- #### Song popularity distribution and (min,avg,mode,max)
+- #### Artist genres wordcolud 
+- #### Analyzing audio features
 
 ## 6 - Apply Dmensionality Reduction
 
-- ### Split audio features from data
-- ### Standard Scaling Audio Features
-- ### Apply PCA
-- ### Put PCA Output Into a Dataframe
-- ### Visualize reduced dimension Data
+- #### Split audio features from data
+- #### Standard Scaling Audio Features
+- #### Apply PCA
+- #### Put PCA Output Into a Dataframe
+- #### Visualize reduced dimension Data
 
 ## 7 - Apply Clustering
 
-- ### Select the right value of k for clustring
-- ### Fit reduced dimension data into Kmeans
-- ### Visualize clusterd data (kemans output)
+- #### Select the right value of k for clustring
+- #### Fit reduced dimension data into Kmeans
+- #### Visualize clusterd data (kemans output)
 
 ## 8 - Create Recommendation System
 To build the recommendation system, I used audio features, songs, song genres, singers, etc. The more data the features are closer to the songs in question, the more data will be displayed.

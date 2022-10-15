@@ -17,7 +17,7 @@ In this project, I am trying to create a **content base recommendation system** 
 
 ## 1 - Setup Spotify Api 
 - Open [spotify developers](https://developer.spotify.com/dashboard/login) go to ***dashboard*** - create app and get your ***client id*** and ***secret id***
-<img src = "img/guide.jpg" width ="330" />
+<img src = "img/guide.jpg" width ="600" />
 
 ## 2 - Collecting Data
 - Collect songs between 2017 and 2022

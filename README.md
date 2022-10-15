@@ -7,4 +7,4 @@ https://spotify-song-recommendation.herokuapp.com/
 
 ![alt Text](https://github.com/meysamraz/spotify-song-recommendation-end-to-end-project/blob/master/img/demo.gif)
 
-<p><img src="src/preview.png" alt=""></p>
+<p><img src="img/preview.png" alt=""></p>

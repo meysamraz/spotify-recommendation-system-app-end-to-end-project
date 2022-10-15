@@ -92,5 +92,28 @@ In this project, I am trying to create a **content base recommendation system** 
 - ### Visualize clusterd data (kemans output)
 
 ## 8 - Create Recommendation System
+To build the recommendation system, I used audio features, songs, song genres, singers, etc. The more data the features are closer to the songs in question, the more data will be displayed.
+
+## 9 - User Interface
+To create my user interface, I used [streamlit](https://docs.streamlit.io/) formwork, a powerful formwork that allows me to create the desired user interface completely using Python.
+
+## Deploy on server 
+I used [Heroku](https://www.heroku.com/) a cloud platform as a service which provide a free hosting to deploy my app on it. it's and amzaing platform gave me so much flexbilte to deploy my apps 
+
+
+##  Libraries and FrameWorks used in the project
+
+- [streamlit](https://streamlit.io/)
+- [pandas](https://pandas.pydata.org/)
+- [numpy](https://numpy.org/)
+- [plotly](https://plotly.com/)
+- [matplotlib](https://matplotlib.org/)
+- [seaborn]([https://pypi.org/project/psycopg2/](https://seaborn.pydata.org/))
+- [termcolor](https://pypi.org/project/termcolor/)
+- [wordcloud](https://pypi.org/project/wordcloud/)
+- [yellowbrick](https://pypi.org/project/yellowbrick/)
+- [spotipy](https://spotipy.readthedocs.io/)
+- [scikit-learn](https://scikit-learn.org/)
+
 
 

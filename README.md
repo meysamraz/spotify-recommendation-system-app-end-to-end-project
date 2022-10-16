@@ -98,7 +98,7 @@ To build the recommendation system, I used audio features, songs, song genres, s
 To create my user interface, I used [streamlit](https://docs.streamlit.io/) formwork, a powerful formwork that allows me to create the desired user interface completely using Python.
 
 ## Deploy on server 
-I used [Heroku](https://www.heroku.com/) a cloud platform as a service which provide a free hosting to deploy my app on it. it's and amzaing platform gave me so much flexbilte to deploy my apps 
+I used [Heroku](https://www.heroku.com/) a cloud platform as a service which provide a free hosting to deploy my app on it. it's and amzaing platform gave me so much flexbilte to deploy your apps 
 
 
 ##  Libraries and FrameWorks used in the project

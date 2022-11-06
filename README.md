@@ -2,6 +2,8 @@
 
 In this project, using the data I collected from Spotify (audio streaming and media services provider), I tried to make a recommendation system that based on audio feature, song genre, artist, etc., the song we choose gives us Suggest songs
 
+
+
 Watch Demo here : 
 https://spotify-song-recommendation.herokuapp.com/
 
@@ -9,9 +11,6 @@ https://spotify-song-recommendation.herokuapp.com/
 
 <p><img src="img/preview.png" alt=""></p>
 
-
-# Spotify end to end recommendation system project
-In this project, I am trying to create a **content base recommendation system** using the data I collect from Spotify. To build this system, I use the data of my favorite songs and the songs between **2017** and **2022**.
 
 # Project Overview :
 

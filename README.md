@@ -4,7 +4,7 @@ In this project, using the data I collected from Spotify (audio streaming and me
 
 
 ### Watch Demo here  : 
-https://meysamraz-laptop-price-prediction-project.streamlit.app/
+https://meysamraz-song-recommendation-spotify-project.streamlit.app/
 
 
 ### Watch Demo here ***heroku version*** : 

@@ -3,8 +3,13 @@
 In this project, using the data I collected from Spotify (audio streaming and media services provider), I tried to make a recommendation system that based on audio feature, song genre, artist, etc., the song we choose gives us Suggest songs
 
 
+### Watch Demo here  : 
+https://meysamraz-laptop-price-prediction-project.streamlit.app/
 
-Watch Demo here : 
+
+### Watch Demo here ***heroku version*** : 
+##### update : heroku may shutdown free hosting at 2022 - 28 nov so if this link didnt work use link above 
+
 https://spotify-song-recommendation.herokuapp.com/
 
 ![alt Text](https://github.com/meysamraz/spotify-song-recommendation-end-to-end-project/blob/master/img/demo.gif)

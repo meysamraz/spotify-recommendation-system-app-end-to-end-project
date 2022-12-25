@@ -116,8 +116,7 @@ I used [Heroku](https://www.heroku.com/) a cloud platform as a service which pro
 - [termcolor](https://pypi.org/project/termcolor/)
 - [wordcloud](https://pypi.org/project/wordcloud/)
 - [yellowbrick](https://pypi.org/project/yellowbrick/)
-- [spotipy](https://spotipy.readthedocs.io/)
 - [scikit-learn](https://scikit-learn.org/)
-
+- [beautifulsoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 

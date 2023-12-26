@@ -3,12 +3,15 @@
 In this project, using the data I collected from Spotify (audio streaming and media services provider), I tried to make a recommendation system that based on audio feature, song genre, artist, etc., the song we choose gives us Suggest songs
 
 
+***This project is a part of my portfolio, showcasing my skills. The main code isn't public, but I'm open to collaboration! Interested? Email me at mr.raz2002@gmail.com***
+
+
 ### Watch Demo here  : 
 https://meysamraz-song-recommendation-spotify-project.streamlit.app/
 
 
 ### Watch Demo here ***heroku version*** : 
-##### update : heroku may shutdown free hosting at 2022 - 28 nov so if this link didnt work use link above 
+##### update : heroku may shutdown free hosting. If this link didnt work use link above 
 
 https://spotify-song-recommendation.herokuapp.com/
 

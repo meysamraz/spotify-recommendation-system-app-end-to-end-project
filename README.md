@@ -102,7 +102,7 @@ https://spotify-song-recommendation.herokuapp.com/
 To build the recommendation system, I used audio features, songs, song genres, singers, etc. The more data the features are closer to the songs in question, the more data will be displayed.
 
 ## 9 - User Interface
-To create my user interface, I used [streamlit](https://docs.streamlit.io/) formwork, a powerful formwork that allows me to create the desired user interface completely using Python.
+To create my user interface, I used [streamlit](https://docs.streamlit.io/) framework, a powerful framework that allows me to create the desired user interface completely using Python.
 
 ## Deploy on server 
 I used [Heroku](https://www.heroku.com/) a cloud platform as a service which provide a free hosting to deploy my app on it. it's and amzaing platform gave me so much flexbilte to deploy your apps 
